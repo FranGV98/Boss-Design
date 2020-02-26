@@ -7,6 +7,8 @@ During this research work, I tried to find a formula that all video games had in
 
 The dungeon boss concept comes from the famous board role-playing games like "Dungeon & Dragons", this was an enemy that was different from others because it had more life and more power than any other enemy and that by default appeared at the end of the dungeon, being the last challenge to face. Once defeated, it is common to obtain a powerful item or some valuable item that rewards the player for having endeavored to defeat him.
 
+![Original table game "Dungeons and Dragons"](https://github.com/FranGV98/Boss-Design/blob/master/Images/dungeons-and-dragons.jpg?raw=true)
+
 As video games evolved and new concepts and mechanics were added, the final boss was introduced having a function similar to that of role-playing games. It is reflected with the same 1975 video game "dnd", which is a computer version of "Dungeon & Dragons".
 
 A clear example of these bosses would be the famous Bowser of the Super Mario Bros saga that distinguished itself by being exclusively on the last level of each world and served as a barrier to access a new world.
@@ -35,7 +37,11 @@ Also, speaking about his role in the story, he is the main villain who kidnaps t
 
 In the first game, at the end of each world we have a castle set for the boss in question. Each time you defeat him, he adds a variant to Bowser's pattern and therefore, in the last fight his pattern is the most complex of all and hardest to beat, but thanks to our skill we can defeat him by pressing the button behind him dodging their attacks and taking advantage of their jump.
 
-In the following games, Bowser is reserved exclusively for the last level of all and other enemies superiors than normal ones are used as zone boss.
+In the following games, Bowser is reserved exclusively for the last level of all and other enemies superiors than normal ones are used as zone boss. 
+
+As you can see in this graphic, bosses in Super Mario Bros 3 are used as climax point of each world and is used as a reference in the difficulty curve and after defeating each boss, the first level after that is easier to let the player relax after an stress moment.
+
+![](https://github.com/FranGV98/Boss-Design/blob/master/Images/SMB3GRAPHIC.jpg?raw=true)
 
 The evolution of the battles against Bowser are a clear example of how bosses have evolved throughout history as a reference. We can see that in the 80s it was simply a more complex enemy that could only be defeated by pressing a button, in the 90s with Super Mario World it presents us with something more spectacular and lasting with a somewhat more cinematic tone than it had been previously and that I would give foot to the final boss as a show. In Super Mario 64 the formula evolves and Bowser plays with the environment and even a new mechanic is added since this is not a conventional enemy and can not be defeated by jumping on it if not to be thrown at bombs. From there the scenario + boss formula does nothing more than be polished and developed being the stage part of it.
 
@@ -47,6 +53,8 @@ From this villain we can say that it has the purpose of being spectacular, makin
 Throughout my research, I have seen many articles that define bosses as exams for the player in which they demonstrate what they have learned throughout what they have learned, but as we have seen before, Bowser usually introduces new mechanics to be differentiated from other enemies and therefore in the same combat is the process of learning and execution where you test your ability.
 
 Instead, in The Legend of Zelda we have real exams at the end of each temple. As a general rule, in temples, we are given an object that introduces a new mechanic. Let's say the object is a bow with arrows, because throughout the temple the player will learn how to use it and what better way to know if you have mastered it than facing a boss who can only be defeated by shooting in one eye with the bow.
+
+![](https://github.com/FranGV98/Boss-Design/blob/master/Images/BowZelda.jpg?raw=true)
 
 From my point of view, this boss model is perfect since in this way the player is rewarded for mastering all the mechanics.
 
