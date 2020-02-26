@@ -106,7 +106,9 @@ The keys to a good boss design are:
 
 ## How to develop a Good Boss
 
-When developing a good boss design, we have to take into account the role it should have in our game.
+After seeing different bosses and extracted which types of bosses are, let's design a good boss for a game. 
+
+When developing a good boss design, we have to take into account the role it should have in our game because it hasn't the same function a boss in arcade games and in narrative games.
 
 First of all, we have to have clear in our mind that a boss is not another enemy more. It is in the climax of each world or in the final of the game.
 
